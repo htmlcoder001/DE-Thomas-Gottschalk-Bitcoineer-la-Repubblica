@@ -121,12 +121,12 @@
 
 .main-title__row {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
 }
 
 .main-title__left {
-  flex: 1 1 40%;
+  flex: 1 1 45%;
 }
 
 .main-title__title {
@@ -136,10 +136,11 @@
 }
 
 .main-title__right {
-  flex: 1 1 60%;
+  flex: 1 1 55%;
 }
 
 .main-title__img {
+  width: 100%;
 }
 
 .main-title__article {
